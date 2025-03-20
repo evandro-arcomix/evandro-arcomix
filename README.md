@@ -1,7 +1,7 @@
 <h1 align="center">Hello Fellow < Developers/ ></h1>
 <h3 align="center"> I'm Evandro Lucas</h3>
   
-I am a C# Developer, specialized in .NET Core, with experience in the robust development of web applications and APIs. My expertise ranges from design and implementation to optimization and scalability of software solutions, using modern technologies and agile methodologies.
+I am a C# Developer and Software Architect, specialized in .NET Core, with experience in the robust development of web applications and APIs. My expertise ranges from design and implementation to optimization and scalability of software solutions, using modern technologies and agile methodologies.
 
 Feel free to check out my repositories and connect with me on GitHub. I'm always open to new opportunities and collaborations, so don't hesitate to reach out!
  <br>

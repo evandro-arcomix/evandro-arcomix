@@ -14,7 +14,8 @@ I am a C# Developer and Software Architect, specialized in .NET Core, with exper
 <br>
 <div align="center">
   <a href="https://github.com/evandrolucas60">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandrolucas60&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandrolucas60&langs_count=7&theme=radical"/>
+    <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=evandrolucas60&theme=radical" alt="evandrolucas60" />
 </div>
     

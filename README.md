@@ -11,7 +11,6 @@ Feel free to check out my repositories and connect with me on GitHub. I'm always
 <!---
 <a href="https://stackoverflow.com/users/23173550/evandro-lucas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17074530" height="30" width="40" /></a>
 --->
-<a href="https://instagram.com/evandrolucas60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmerscrunity" height="30" width="40" /></a>
 <a href="https://discord.gg/chestnuttoe8653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wallflower#7007" height="30" width="40" /></a>
 </p>
 <br>
@@ -31,7 +30,7 @@ Feel free to check out my repositories and connect with me on GitHub. I'm always
   ##
   
 <div> 
-  <a href = "mailto:evandrolucas60@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:evandro.silva@arcomix.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/evandro-lucas-b84926117" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
   
